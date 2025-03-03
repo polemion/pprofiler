@@ -15,7 +15,7 @@ I made it for Linux Mint XFCE, which I am using, since it has no widget to chang
 
 ## Requirements
 It was designed against the following, but lesser versions should suffice:
-- Python 3.1.2
+- Python 3.12.0
 - wxPython 4.2.2 (no other external library).
 
 It should work out of the box in Ubuntu 24.x based distros (like Linux Mint 22.x), otherwise, a virtual environment is required to run it directly by the Python source.
